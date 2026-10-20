@@ -1,0 +1,29 @@
+html {
+    background-color: bisque;
+}
+
+.btn {
+    height: 20px;
+    width: 60px;
+    background-image: url(https://th.bing.com/th/id/OIP.bxSjb06YkNnApLhsNOBgUgHaFp?w=226&h=180&c=7&r=0&o=5&pid=1.7);
+    display: inline-block;
+    margin: 5%;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-size: 100% 100%;
+    
+    font-size: 32px;
+    font-weight: bolder;
+}
+
+.btn a {
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.dialogue {
+    padding: 10%;
+    width: 80%;
+    background-color: black;
+    color: aliceblue;
+}
